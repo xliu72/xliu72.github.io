@@ -1,0 +1,11 @@
+.hidden-links {
+	text-decoration: none;
+	color: #536482;		/* This is a comment, and this color is a greyish-blue */
+}
+#first-paragraph {
+	font-family: helvetica, san-serif;		
+font-size: 16px;
+color: blue; 
+}
+/* San-serif will be used if the browser can't find helvetica */
+
