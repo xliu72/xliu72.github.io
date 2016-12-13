@@ -4,11 +4,11 @@ body{
 	background-position:center top;
 	background-repeat: no-repeat;
 }
-.hidden-links {
+h2.hidden-links {
 	text-decoration: none;
 	color: #536482;		/* This is a comment, and this color is a greyish-blue */
 }
-#first-paragraph {
+p.first-paragraph {
 	font-family: helvetica, san-serif;		
 font-size: 16px;
 color: blue; 
