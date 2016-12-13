@@ -1,6 +1,6 @@
 body{
 	background-image: url("围屋（大鱼海棠）.jpg");
-	background-size: auto|length|cover|contain|initial|inherit;
+	background-size: cover;
 	background-repeat: no-repeat;
 }
 .hidden-links {
