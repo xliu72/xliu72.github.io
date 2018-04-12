@@ -1,17 +1,20 @@
+video{
+	min-width: 100%;
+	min-height: 100%;
+}
 body{
-	background-image: url("polygonal-texture-background-vector.jpg");
-	background-size: cover;
+	background-image: url("围屋（大鱼海棠）.jpg");
+	background-size:cover;
+	background-repeat: repeat-y;
 	background-position:center top;
-	background-repeat: no-repeat;
 }
 h2.hidden-links {
 	text-decoration: none;
 	color: #536482;		/* This is a comment, and this color is a greyish-blue */
 }
 #first-paragraph {
-	font-family: helvetica, san-serif;		
+	font-family: helvetica, san-serif;
 font-size: 16px;
-color: blue; 
+color: blue;
 }
 /* San-serif will be used if the browser can't find helvetica */
-
